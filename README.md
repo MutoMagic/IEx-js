@@ -1,4 +1,4 @@
-# IEx-js
+# ie7-js
 IE7.js is a JavaScript library to make Microsoft Internet Explorer behave like a standards-compliant browser. It fixes many HTML and CSS issues and makes transparent PNG work correctly under IE5 and IE6.
 
 ## Status
