@@ -68,4 +68,4 @@ div.example {
 Unfortunately, the transparent background image cannot be tiled (repeated) using background-repeat. Nor can it be positioned using background-position.
 
 ## Download
-Go to the [releases]() section to download the current version.
+Go to the [releases](https://github.com/MutoMagic/IEx-js/releases) section to download the current version.
